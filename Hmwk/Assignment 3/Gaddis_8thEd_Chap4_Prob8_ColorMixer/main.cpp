@@ -1,8 +1,8 @@
 /* 
  * File:   main.cpp
  * Author: Camerin Delfin
- *
  * Created on October 5, 2016, 2:55 PM
+ * Purpose: To show secondary color from mixing two primary colors
  */
 
 //System Libraries
