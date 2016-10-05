@@ -1,6 +1,6 @@
 /* 
    File:   main
-   Author: Juan F. Villalpando
+   Author: Camerin Delfin
    Created on September 28, 2016, 8:57 PM
    Purpose:  Change Variable Product to old value times a new variable
  */

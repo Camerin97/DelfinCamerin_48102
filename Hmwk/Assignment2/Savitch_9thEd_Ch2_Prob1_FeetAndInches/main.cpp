@@ -1,6 +1,6 @@
 /* 
    File:   main
-   Author: Juan F. Villalpando
+   Author: Camerin Delfin
    Created on September 28, 2016, 8:00 PM
    Purpose:  Display both feet and inches initialized to zero
  */

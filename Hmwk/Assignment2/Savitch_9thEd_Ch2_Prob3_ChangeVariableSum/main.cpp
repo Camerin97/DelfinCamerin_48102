@@ -1,6 +1,6 @@
 /* 
    File:   main
-   Author: Juan F. Villalpando
+   Author: Camerin Delfin
    Created on September 24, 2016, 7:49 PM
    Purpose:  To change the variable sum to the sum of two other variables
  */
