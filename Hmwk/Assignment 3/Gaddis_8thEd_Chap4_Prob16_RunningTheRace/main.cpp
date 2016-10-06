@@ -60,7 +60,7 @@ int main(int argc, char** argv) {
     {
         cout<<"Please enter a number greater than 0."<<endl;
     }
-    
+    cout<<endl;
     
     if(time1<time2 && time1<time3 && time2>time3)
     {
